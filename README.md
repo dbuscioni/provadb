@@ -1,2 +1,2 @@
 # provadb
-tet
+test
