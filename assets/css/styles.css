@@ -5547,12 +5547,12 @@ footer li, footer p {
 }
 }
 footer li.spacing {
-    padding-top: 74px
+    padding-top: 0
 }
 
 @media only screen and (min-width: 40.063em) {
 footer li.spacing {
-    padding-top: 74px
+    padding-top: 0
 }
 }
 footer .footerlist>li:nth-child(3) {
